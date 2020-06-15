@@ -1,0 +1,333 @@
+2020-06-07 19:32:22,216 : INFO : utiles.baseClassFile : Shop link clicked
+2020-06-07 19:32:22,260 : INFO : utiles.baseClassFile : getting product list information
+2020-06-07 19:32:22,474 : INFO : utiles.baseClassFile : Added blackberry in cart
+2020-06-07 20:02:00,315 : INFO : utiles.baseClassFile : Shop link clicked
+2020-06-07 20:02:00,347 : INFO : utiles.baseClassFile : getting product list information
+2020-06-07 20:02:00,550 : INFO : utiles.baseClassFile : Added blackberry in cart
+2020-06-07 20:02:00,685 : INFO : utiles.baseClassFile : Clicked on cart ICon
+2020-06-07 20:02:00,835 : INFO : utiles.baseClassFile : clciked on chceckout button
+2020-06-07 20:02:00,927 : INFO : utiles.baseClassFile : Entered the value in country field.
+2020-06-07 20:02:06,548 : INFO : utiles.baseClassFile : Country NAme link clicked
+2020-06-07 20:02:06,618 : INFO : utiles.baseClassFile : checkbox Clciked
+2020-06-07 20:02:06,736 : INFO : utiles.baseClassFile : Purchase button clciked
+2020-06-07 20:02:06,769 : INFO : utiles.baseClassFile : success preent in the alert msg
+2020-06-07 20:02:07,170 : INFO : utiles.baseClassFile : screnshot saved
+2020-06-07 20:02:30,903 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 20:02:31,022 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 20:02:31,162 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 20:02:31,242 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 20:02:31,324 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 20:02:31,372 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 20:02:31,506 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 20:02:31,585 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 20:02:31,633 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 20:02:31,727 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 20:02:31,727 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 20:02:31,810 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 20:02:31,810 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 20:02:31,898 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 20:02:31,898 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 20:02:31,938 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 20:02:31,938 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 20:02:31,990 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 20:02:31,990 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 20:02:32,051 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 20:02:32,051 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 20:02:32,183 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 20:02:32,183 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 20:02:32,223 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 20:02:32,223 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 20:02:32,239 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 20:02:32,239 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 20:02:32,343 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 20:02:32,343 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 20:02:32,343 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 20:02:32,426 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 20:02:32,426 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 20:02:32,426 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 20:02:32,506 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 20:02:32,506 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 20:02:32,506 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 20:02:32,558 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 20:02:32,558 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 20:02:32,558 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 20:02:32,606 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 20:02:32,606 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 20:02:32,606 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 20:02:32,638 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 20:02:32,638 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 20:02:32,638 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 20:02:32,734 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 20:02:32,734 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 20:02:32,734 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 20:02:32,790 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 20:02:32,790 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 20:02:32,790 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 20:02:32,806 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 20:02:32,806 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 20:02:32,806 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 20:26:09,839 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 20:26:09,962 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 20:26:10,087 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 20:26:10,150 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 20:26:10,234 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 20:26:10,294 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 20:26:10,434 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 20:26:10,566 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 20:26:10,602 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 20:26:10,726 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 20:26:10,726 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 20:26:10,830 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 20:26:10,830 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 20:26:10,930 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 20:26:10,930 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 20:26:10,982 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 20:26:10,982 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 20:26:11,030 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 20:26:11,030 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 20:26:11,106 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 20:26:11,106 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 20:26:11,204 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 20:26:11,204 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 20:26:11,248 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 20:26:11,248 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 20:26:11,268 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 20:26:11,268 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 20:26:11,388 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 20:26:11,388 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 20:26:11,388 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 20:26:11,488 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 20:26:11,488 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 20:26:11,488 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 20:26:11,572 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 20:26:11,572 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 20:26:11,572 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 20:26:11,616 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 20:26:11,616 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 20:26:11,616 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 20:26:11,700 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 20:26:11,700 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 20:26:11,700 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 20:26:11,748 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 20:26:11,748 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 20:26:11,748 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 20:26:11,851 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 20:26:11,851 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 20:26:11,851 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 20:26:11,899 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 20:26:11,899 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 20:26:11,899 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 20:26:11,919 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 20:26:11,919 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 20:26:11,919 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 20:26:20,212 : INFO : utiles.baseClassFile : Shop link clicked
+2020-06-07 20:26:20,212 : INFO : utiles.baseClassFile : Shop link clicked
+2020-06-07 20:26:20,212 : INFO : utiles.baseClassFile : Shop link clicked
+2020-06-07 20:26:20,212 : INFO : utiles.baseClassFile : Shop link clicked
+2020-06-07 20:26:20,236 : INFO : utiles.baseClassFile : getting product list information
+2020-06-07 20:26:20,236 : INFO : utiles.baseClassFile : getting product list information
+2020-06-07 20:26:20,236 : INFO : utiles.baseClassFile : getting product list information
+2020-06-07 20:26:20,236 : INFO : utiles.baseClassFile : getting product list information
+2020-06-07 20:26:20,421 : INFO : utiles.baseClassFile : Added blackberry in cart
+2020-06-07 20:26:20,421 : INFO : utiles.baseClassFile : Added blackberry in cart
+2020-06-07 20:26:20,421 : INFO : utiles.baseClassFile : Added blackberry in cart
+2020-06-07 20:26:20,421 : INFO : utiles.baseClassFile : Added blackberry in cart
+2020-06-07 20:26:20,616 : INFO : utiles.baseClassFile : Clicked on cart ICon
+2020-06-07 20:26:20,616 : INFO : utiles.baseClassFile : Clicked on cart ICon
+2020-06-07 20:26:20,616 : INFO : utiles.baseClassFile : Clicked on cart ICon
+2020-06-07 20:26:20,616 : INFO : utiles.baseClassFile : Clicked on cart ICon
+2020-06-07 20:26:20,716 : INFO : utiles.baseClassFile : clciked on chceckout button
+2020-06-07 20:26:20,716 : INFO : utiles.baseClassFile : clciked on chceckout button
+2020-06-07 20:26:20,716 : INFO : utiles.baseClassFile : clciked on chceckout button
+2020-06-07 20:26:20,716 : INFO : utiles.baseClassFile : clciked on chceckout button
+2020-06-07 20:26:20,804 : INFO : utiles.baseClassFile : Entered the value in country field.
+2020-06-07 20:26:20,804 : INFO : utiles.baseClassFile : Entered the value in country field.
+2020-06-07 20:26:20,804 : INFO : utiles.baseClassFile : Entered the value in country field.
+2020-06-07 20:26:20,804 : INFO : utiles.baseClassFile : Entered the value in country field.
+2020-06-07 20:26:26,082 : INFO : utiles.baseClassFile : Country NAme link clicked
+2020-06-07 20:26:26,082 : INFO : utiles.baseClassFile : Country NAme link clicked
+2020-06-07 20:26:26,082 : INFO : utiles.baseClassFile : Country NAme link clicked
+2020-06-07 20:26:26,082 : INFO : utiles.baseClassFile : Country NAme link clicked
+2020-06-07 20:26:26,146 : INFO : utiles.baseClassFile : checkbox Clciked
+2020-06-07 20:26:26,146 : INFO : utiles.baseClassFile : checkbox Clciked
+2020-06-07 20:26:26,146 : INFO : utiles.baseClassFile : checkbox Clciked
+2020-06-07 20:26:26,146 : INFO : utiles.baseClassFile : checkbox Clciked
+2020-06-07 20:26:26,258 : INFO : utiles.baseClassFile : Purchase button clciked
+2020-06-07 20:26:26,258 : INFO : utiles.baseClassFile : Purchase button clciked
+2020-06-07 20:26:26,258 : INFO : utiles.baseClassFile : Purchase button clciked
+2020-06-07 20:26:26,258 : INFO : utiles.baseClassFile : Purchase button clciked
+2020-06-07 20:26:26,291 : INFO : utiles.baseClassFile : success preent in the alert msg
+2020-06-07 20:26:26,291 : INFO : utiles.baseClassFile : success preent in the alert msg
+2020-06-07 20:26:26,291 : INFO : utiles.baseClassFile : success preent in the alert msg
+2020-06-07 20:26:26,291 : INFO : utiles.baseClassFile : success preent in the alert msg
+2020-06-07 20:26:26,656 : INFO : utiles.baseClassFile : screnshot saved
+2020-06-07 20:26:26,656 : INFO : utiles.baseClassFile : screnshot saved
+2020-06-07 20:26:26,656 : INFO : utiles.baseClassFile : screnshot saved
+2020-06-07 20:26:26,656 : INFO : utiles.baseClassFile : screnshot saved
+2020-06-07 22:15:41,463 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 22:15:41,587 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 22:15:41,699 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 22:15:41,786 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 22:15:41,851 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 22:15:41,902 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 22:15:42,033 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 22:15:42,157 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 22:15:42,193 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 22:15:42,293 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 22:15:42,293 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 22:15:42,380 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 22:15:42,380 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 22:15:42,468 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 22:15:42,468 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 22:15:42,517 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 22:15:42,517 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 22:15:42,575 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 22:15:42,575 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 22:15:42,638 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 22:15:42,638 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 22:15:42,730 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 22:15:42,730 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 22:15:42,770 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 22:15:42,770 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 22:15:42,786 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 22:15:42,786 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 22:15:42,920 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 22:15:42,920 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 22:15:42,920 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 22:15:43,013 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 22:15:43,013 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 22:15:43,013 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 22:15:43,099 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 22:15:43,099 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 22:15:43,099 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 22:15:43,151 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 22:15:43,151 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 22:15:43,151 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 22:15:43,200 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 22:15:43,200 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 22:15:43,200 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 22:15:43,229 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 22:15:43,229 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 22:15:43,229 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 22:15:43,327 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 22:15:43,327 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 22:15:43,327 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 22:15:43,385 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 22:15:43,385 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 22:15:43,385 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 22:15:43,401 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 22:15:43,401 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 22:15:43,401 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 22:26:48,190 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 22:26:48,310 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 22:26:48,423 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 22:26:48,520 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 22:26:48,585 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 22:26:48,630 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 22:26:48,759 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 22:26:48,836 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 22:26:48,870 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 22:26:49,008 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 22:26:49,008 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 22:26:49,109 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 22:26:49,109 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 22:26:49,203 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 22:26:49,203 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 22:26:49,252 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 22:26:49,252 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 22:26:49,303 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 22:26:49,303 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 22:26:49,367 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 22:26:49,367 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 22:26:49,464 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 22:26:49,464 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 22:26:49,503 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 22:26:49,503 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 22:26:49,520 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 22:26:49,520 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 22:26:49,637 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 22:26:49,637 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 22:26:49,637 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-07 22:26:49,726 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 22:26:49,726 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 22:26:49,726 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-07 22:26:49,809 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 22:26:49,809 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 22:26:49,809 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-07 22:26:49,853 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 22:26:49,853 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 22:26:49,853 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-07 22:26:49,903 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 22:26:49,903 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 22:26:49,903 : INFO : utiles.baseClassFile : Employed selected
+2020-06-07 22:26:49,933 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 22:26:49,933 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 22:26:49,933 : INFO : utiles.baseClassFile : Gender selected
+2020-06-07 22:26:50,031 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 22:26:50,031 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 22:26:50,031 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-07 22:26:50,088 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 22:26:50,088 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 22:26:50,088 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-07 22:26:50,104 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 22:26:50,104 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 22:26:50,104 : INFO : utiles.baseClassFile : Successfully validated
+2020-06-07 22:26:58,939 : INFO : utiles.baseClassFile : Shop link clicked
+2020-06-07 22:26:58,939 : INFO : utiles.baseClassFile : Shop link clicked
+2020-06-07 22:26:58,939 : INFO : utiles.baseClassFile : Shop link clicked
+2020-06-07 22:26:58,939 : INFO : utiles.baseClassFile : Shop link clicked
+2020-06-07 22:26:58,955 : INFO : utiles.baseClassFile : getting product list information
+2020-06-07 22:26:58,955 : INFO : utiles.baseClassFile : getting product list information
+2020-06-07 22:26:58,955 : INFO : utiles.baseClassFile : getting product list information
+2020-06-07 22:26:58,955 : INFO : utiles.baseClassFile : getting product list information
+2020-06-07 22:26:59,113 : INFO : utiles.baseClassFile : Added blackberry in cart
+2020-06-07 22:26:59,113 : INFO : utiles.baseClassFile : Added blackberry in cart
+2020-06-07 22:26:59,113 : INFO : utiles.baseClassFile : Added blackberry in cart
+2020-06-07 22:26:59,113 : INFO : utiles.baseClassFile : Added blackberry in cart
+2020-06-07 22:26:59,235 : INFO : utiles.baseClassFile : Clicked on cart ICon
+2020-06-07 22:26:59,235 : INFO : utiles.baseClassFile : Clicked on cart ICon
+2020-06-07 22:26:59,235 : INFO : utiles.baseClassFile : Clicked on cart ICon
+2020-06-07 22:26:59,235 : INFO : utiles.baseClassFile : Clicked on cart ICon
+2020-06-07 22:26:59,314 : INFO : utiles.baseClassFile : clciked on chceckout button
+2020-06-07 22:26:59,314 : INFO : utiles.baseClassFile : clciked on chceckout button
+2020-06-07 22:26:59,314 : INFO : utiles.baseClassFile : clciked on chceckout button
+2020-06-07 22:26:59,314 : INFO : utiles.baseClassFile : clciked on chceckout button
+2020-06-07 22:26:59,408 : INFO : utiles.baseClassFile : Entered the value in country field.
+2020-06-07 22:26:59,408 : INFO : utiles.baseClassFile : Entered the value in country field.
+2020-06-07 22:26:59,408 : INFO : utiles.baseClassFile : Entered the value in country field.
+2020-06-07 22:26:59,408 : INFO : utiles.baseClassFile : Entered the value in country field.
+2020-06-07 22:27:04,757 : INFO : utiles.baseClassFile : Country NAme link clicked
+2020-06-07 22:27:04,757 : INFO : utiles.baseClassFile : Country NAme link clicked
+2020-06-07 22:27:04,757 : INFO : utiles.baseClassFile : Country NAme link clicked
+2020-06-07 22:27:04,757 : INFO : utiles.baseClassFile : Country NAme link clicked
+2020-06-07 22:27:04,895 : INFO : utiles.baseClassFile : checkbox Clciked
+2020-06-07 22:27:04,895 : INFO : utiles.baseClassFile : checkbox Clciked
+2020-06-07 22:27:04,895 : INFO : utiles.baseClassFile : checkbox Clciked
+2020-06-07 22:27:04,895 : INFO : utiles.baseClassFile : checkbox Clciked
+2020-06-07 22:27:04,962 : INFO : utiles.baseClassFile : Purchase button clciked
+2020-06-07 22:27:04,962 : INFO : utiles.baseClassFile : Purchase button clciked
+2020-06-07 22:27:04,962 : INFO : utiles.baseClassFile : Purchase button clciked
+2020-06-07 22:27:04,962 : INFO : utiles.baseClassFile : Purchase button clciked
+2020-06-07 22:27:04,990 : INFO : utiles.baseClassFile : success preent in the alert msg
+2020-06-07 22:27:04,990 : INFO : utiles.baseClassFile : success preent in the alert msg
+2020-06-07 22:27:04,990 : INFO : utiles.baseClassFile : success preent in the alert msg
+2020-06-07 22:27:04,990 : INFO : utiles.baseClassFile : success preent in the alert msg
+2020-06-07 22:27:05,410 : INFO : utiles.baseClassFile : screnshot saved
+2020-06-07 22:27:05,410 : INFO : utiles.baseClassFile : screnshot saved
+2020-06-07 22:27:05,410 : INFO : utiles.baseClassFile : screnshot saved
+2020-06-07 22:27:05,410 : INFO : utiles.baseClassFile : screnshot saved
+2020-06-15 10:33:43,147 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-15 10:33:43,296 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-15 10:33:43,428 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-15 10:33:43,502 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-15 10:33:43,568 : INFO : utiles.baseClassFile : Employed selected
+2020-06-15 10:33:43,612 : INFO : utiles.baseClassFile : Gender selected
+2020-06-15 10:34:21,709 : INFO : utiles.baseClassFile : First name successfully entered
+2020-06-15 10:34:21,813 : INFO : utiles.baseClassFile : last name successfully entered
+2020-06-15 10:34:21,932 : INFO : utiles.baseClassFile : Password entered successfully
+2020-06-15 10:34:22,001 : INFO : utiles.baseClassFile : Checked box clicked
+2020-06-15 10:34:22,064 : INFO : utiles.baseClassFile : Employed selected
+2020-06-15 10:34:22,113 : INFO : utiles.baseClassFile : Gender selected
+2020-06-15 10:34:22,236 : INFO : utiles.baseClassFile : Provided Data of birth
+2020-06-15 10:34:22,309 : INFO : utiles.baseClassFile : Submit button Clicked
+2020-06-15 10:34:22,338 : INFO : utiles.baseClassFile : Successfully validated
